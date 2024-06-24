@@ -1,5 +1,7 @@
 body{
-    background: #EED3D9;
+    font-size: 1rem;
+    background: url(/img/bg.gif);
+    background-size: cover;
 }
 h1{
     font-family: "Varela", sans-serif;
@@ -8,8 +10,8 @@ h1{
     font-weight: 400;
 }
 a{
-    font-family: "Jaro", sans-serif;
-    font-size: 25px;
+    font-family: "Varela", sans-serif;
+    font-size: 23px;
     font-weight: 10;
 }
 img{

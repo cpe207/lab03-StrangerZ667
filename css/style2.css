@@ -1,0 +1,22 @@
+body{
+    font-size: 1rem;
+}
+a{
+    font-family: "Jaro", sans-serif;
+    font-size: 25px;
+    font-weight: 10;
+}
+.my-rounded-all {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.my-rounded-left {
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+.my-rounded-right {
+    border-bottom-right-radius: 15px;
+    border-top-right-radius: 15px;
+}
